@@ -1,0 +1,264 @@
+Settings: Speed: 19 Max score: 10
+Randomness: 0.4 Delay: 4 Chase: True
+Time played: 70.37 mp
+Score: 10
+Average time per score: 7.04
+Enemy score: 2
+Average time per score: 35.19
+
+Settings: Speed: 19 Max score: 10
+Randomness: 0.4 Delay: 4 Chase: True
+Time played: 28.83 mp
+Score: 0
+Average time per score: 0.00
+Enemy score: 10
+Average time per score: 2.88
+
+Settings: Speed: 10 Max score: 10
+Randomness: 0.2 Delay: 2 Chase: True
+Time played: 64.38 mp
+Score: 10
+Average time per score: 6.44
+Enemy score: 2
+Average time per score: 32.19
+
+Settings: Speed: 11 Max score: 10
+Randomness: 0.4 Delay: 4 Chase: True
+Time played: 83.86 mp
+Score: 10
+Average time per score: 8.39
+Enemy score: 2
+Average time per score: 41.93
+
+Settings: Speed: 11 Max score: 10
+Randomness: 0 Delay: 0 Chase: True
+Time played: 14.47 mp
+Score: 0
+Average time per score: 0.00
+Enemy score: 10
+Average time per score: 1.45
+
+Settings: Speed: 11 Max score: 10
+Randomness: 0 Delay: 0 Chase: True
+Time played: 24.86 mp
+Score: 0
+Average time per score: 0.00
+Enemy score: 10
+Average time per score: 2.49
+
+Settings: Speed: 15 Max score: 10
+Randomness: 0.2 Delay: 2 Chase: True
+Time played: 53.06 mp
+Score: 10
+Average time per score: 5.31
+Enemy score: 5
+Average time per score: 10.61
+
+Settings: Speed: 15 Max score: 10
+Randomness: 0.2 Delay: 2 Chase: True
+Time played: 70.22 mp
+Score: 10
+Average time per score: 7.02
+Enemy score: 8
+Average time per score: 8.78
+
+Settings: Speed: 15 Max score: 10
+Randomness: 0.2 Delay: 2 Chase: True
+Time played: 56.18 mp
+Score: 10
+Average time per score: 5.62
+Enemy score: 6
+Average time per score: 9.36
+
+Settings: Speed: 15 Max score: 10
+Randomness: 0.2 Delay: 2 Chase: True
+Time played: 41.60 mp
+Score: 10
+Average time per score: 4.16
+Enemy score: 4
+Average time per score: 10.40
+
+Settings: Speed: 16 Max score: 10
+Randomness: 0.2 Delay: 2 Chase: True
+Time played: 63.15 mp
+Score: 10
+Average time per score: 6.31
+Enemy score: 6
+Average time per score: 10.52
+
+Settings: Speed: 13 Max score: 10
+Randomness: 0.2 Delay: 2 Chase: True
+Time played: 52.02 mp
+Score: 10
+Average time per score: 5.20
+Enemy score: 4
+Average time per score: 13.00
+
+Settings: Speed: 13 Max score: 10
+Randomness: 0 Delay: 0 Chase: True
+Time played: 15.44 mp
+Score: 0
+Average time per score: 0.00
+Enemy score: 10
+Average time per score: 1.54
+
+Settings: Speed: 13 Max score: 10
+Randomness: 0 Delay: 0 Chase: False
+Time played: 17.34 mp
+Score: 0
+Average time per score: 0.00
+Enemy score: 10
+Average time per score: 1.73
+
+Settings: Speed: 13 Max score: 10
+Randomness: 0 Delay: 0 Chase: False
+Time played: 16.27 mp
+Score: 0
+Average time per score: 0.00
+Enemy score: 10
+Average time per score: 1.63
+
+Settings: Speed: 15 Max score: 10
+Randomness: 0.2 Delay: 2 Chase: True
+Time played: 92.72 mp
+Score: 10
+Average time per score: 9.27
+Enemy score: 8
+Average time per score: 11.59
+
+Settings: Speed: 16 Max score: 10
+Randomness: 0.2 Delay: 2 Chase: True
+Time played: 58.02 mp
+Score: 10
+Average time per score: 5.80
+Enemy score: 1
+Average time per score: 58.02
+
+Settings: Speed: 17 Max score: 10
+Randomness: 0.2 Delay: 2 Chase: True
+Time played: 87.27 mp
+Score: 10
+Average time per score: 8.73
+Enemy score: 8
+Average time per score: 10.91
+
+Settings: Speed: 18 Max score: 10
+Randomness: 0.2 Delay: 2 Chase: True
+Time played: 56.22 mp
+Score: 6
+Average time per score: 9.37
+Enemy score: 10
+Average time per score: 5.62
+
+Settings: Speed: 18 Max score: 10
+Randomness: 0.2 Delay: 2 Chase: True
+Time played: 86.88 mp
+Score: 1
+Average time per score: 86.88
+Enemy score: 10
+Average time per score: 8.69
+
+Settings: Speed: 18 Max score: 10
+Randomness: 0.2 Delay: 2 Chase: True
+Time played: 268.05 mp
+Score: 10
+Average time per score: 26.80
+Enemy score: 9
+Average time per score: 29.78
+
+Settings: Speed: 15 Max score: 10
+Randomness: 0.2 Delay: 2 Chase: True
+Time played: 40.92 mp
+Score: 10
+Average time per score: 4.09
+Enemy score: 2
+Average time per score: 20.46
+
+Settings: Speed: 15 Max score: 10
+Randomness: 0.2 Delay: 2 Chase: True
+Time played: 83.45 mp
+Score: 9
+Average time per score: 9.27
+Enemy score: 10
+Average time per score: 8.34
+
+Settings: Speed: 18 Max score: 10
+Randomness: 0 Delay: 0 Chase: False
+Time played: 11.17 mp
+Score: 0
+Average time per score: 0.00
+Enemy score: 10
+Average time per score: 1.12
+
+Settings: Speed: 18 Max score: 10
+Randomness: 0.5 Delay: 5 Chase: False
+Time played: 60.45 mp
+Score: 10
+Average time per score: 6.05
+Enemy score: 3
+Average time per score: 20.15
+
+Settings: Speed: 11 Max score: 10
+Randomness: 0.2 Delay: 4 Chase: False
+Time played: 48.05 mp
+Score: 10
+Average time per score: 4.81
+Enemy score: 3
+Average time per score: 16.02
+
+Settings: Speed: 11 Max score: 10
+Randomness: 0.2 Delay: 3 Chase: True
+Time played: 50.84 mp
+Score: 10
+Average time per score: 5.08
+Enemy score: 1
+Average time per score: 50.84
+
+Settings: Speed: 13 Max score: 10
+Randomness: 0.2 Delay: 2 Chase: True
+Time played: 55.01 mp
+Score: 7
+Average time per score: 7.86
+Enemy score: 10
+Average time per score: 5.50
+
+Settings: Speed: 14 Max score: 10
+Randomness: 0.5 Delay: 5 Chase: False
+Time played: 120.05 mp
+Score: 10
+Average time per score: 12.01
+Enemy score: 4
+Average time per score: 30.01
+
+Settings: Speed: 14 Max score: 10
+Randomness: 0.5 Delay: 5 Chase: False
+Time played: 140.59 mp
+Score: 10
+Average time per score: 14.06
+Enemy score: 1
+Average time per score: 140.59
+
+Settings: Speed: 14 Max score: 10
+Randomness: 0.2 Delay: 2 Chase: False
+Time played: 37.59 mp
+Score: 10
+Average time per score: 3.76
+Enemy score: 3
+Average time per score: 12.53
+
+Settings: Speed: 14 Max score: 10
+Randomness: 0.2 Delay: 2 Chase: False
+Time played: 51.45 mp
+Score: 9
+Average time per score: 5.72
+Enemy score: 10
+Average time per score: 5.14
+
+Settings: Speed: 14 Max score: 10
+Randomness: 0.2 Delay: 3 Chase: False
+Time played: 46.37 mp
+Score: 10
+Average time per score: 4.64
+Enemy score: 4
+Average time per score: 11.59
+
